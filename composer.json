@@ -1,0 +1,13 @@
+{
+    "name": "aharen/calendar",
+    "description": "Calendar generator with optional events for Laravel",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^1.21"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Ahmed Khusaam",
+        "email": "hello@khusaam.com"
+    }]
+}
