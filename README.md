@@ -34,3 +34,4 @@ There are two methods for adding Events to the calendar.
 `$event` - accepts a string as your event detail
 
 `eg: $calendar->days['05-08']->addAllDay('Sleep all day');`
+
