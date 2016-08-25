@@ -27,11 +27,11 @@ There are two methods for adding Events to the calendar.
 `$time` - formatted as `H:i` or accepts the string `all_day` eg: `$calendar->addEvent('04:30', 'Early morning walk');`
 `$event` - accepts a string as your event detail
 
-`eg: $calendar->days['05-08']->addEvent('08:00', 'that cool project goes live');
+	eg:  `$calendar->days['05-08']->addEvent('08:00', 'that cool project goes live');`
 
 2. `addAllDay($event)`
 
 `$event` - accepts a string as your event detail
 
-`eg: $calendar->days['05-08']->addAllDay('Sleep all day');`
+	eg: `$calendar->days['05-08']->addAllDay('Sleep all day');`
 
